@@ -21,7 +21,7 @@
  */
 
 import Lock from "./Search/Lock"
-import Result from "./Search/Result"
+import Result from "./Search/ElasticlunrResult"
 
 /* ----------------------------------------------------------------------------
  * Module
